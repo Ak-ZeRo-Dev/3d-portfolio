@@ -1,50 +1,65 @@
-# 3D Portfolio by Ak-ZeRo
+# 3D Portfolio  
 
-An immersive, interactive 3D portfolio to showcase Ak-ZeRo’s projects and skills, leveraging cutting-edge web technologies for a remarkable user experience.
+**[3dportfolio-akzero.vercel.app](https://3dportfolio-akzero.vercel.app)**  
+An immersive, interactive 3D portfolio showcasing **Ak-ZeRo's** projects and skills, leveraging cutting-edge web technologies for a remarkable user experience.  
 
----
+---  
 
-## 🌟 Features
+## 🚀 Features  
 
-- **Interactive 3D Models**: Eye-catching animations crafted with Three.js for an engaging experience.
-- **Dynamic Project Cards**: Detailed project views with smooth transitions.
-- **Responsive Design**: Ensures seamless display on all devices.
+- **Interactive 3D Models**: Eye-catching animations powered by Three.js for an engaging experience.  
+- **Dynamic Project Cards**: Detailed project views with smooth transitions.  
+- **Responsive Design**: Ensures seamless display on all devices.  
 
----
+---  
 
-## ⚙️ Technologies
+## 🛠️ Technologies  
 
-- **Framework**: [React.js](https://react.dev/)
-- **Styles**: [TailwindCSS](https://tailwindcss.com/)
-- **3D Graphics**: [Three.js](https://threejs.org/)
-- **Deployment**: [Vercel](https://vercel.com/)
+| **Category**      | **Tools/Libraries**                |
+| ------------------ | --------------------------------- |
+| **Frontend**       | `React`, `Vite`                   |
+| **3D Graphics**    | `Three.js`, `@react-three/fiber`  |
+| **UI Framework**   | `TailwindCSS`                     |
+| **State Management** | `Leva`, `maath`                 |
+| **Animation**      | `GSAP`, `@react-three/drei`       |
+| **Icons**          | `React Globe.gl`                  |
+| **Linting**        | `ESLint`, `React ESLint Plugin`   |
 
----
+---  
 
-## 🚀 Quick Start
+## 📦 Installation  
 
-To clone and run this project locally:
+To get started with this project locally, follow these steps:  
+
+### Clone the repository:  
 
 ```bash
-# Clone the repository
 git clone https://github.com/Ak-ZeRo-Dev/3d-portfolio.git
 cd 3d-portfolio
+```
 
-# Install dependencies
-npm install
+### Install Dependencies:
 
-# Run the development server
-npm run dev
+```bash
+pnpm install
+```
+
+### Run the development server:
+
+```bash
+pnpm dev
 ```
 
 ---
 
-## 🌐 Live Demo
+## ✍️ Author
 
-Check out the live demo [here](https://3dportfolio-akzero.vercel.app).
+**Abdul Rahman Mahmoud Saeed Muhammad Al-Kurdi**
+**_Ak-ZeRo_**
 
+- 💼 **[Portfolio](https://ak-zero.vercel.app)**
+- 📧 **[abdulrahman.mahmoud.alkurdi@gmail.com](mailto:abdulrahman.mahmoud.alkurdi@gmail.com)**
 
+---
 
-
-
-
+Happy coding! 🚀
